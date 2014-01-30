@@ -170,6 +170,7 @@ namespace Tera
             + "This program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\nSee the GNU General Public License for more details.\n\n"
             + "Copyright (C) 2012 (ProjectS1.GameServer)\n"
             + "Author: rework by P5yl0\n "
+            + "Fixes brought by danuta\n"
             + "----------------------------------------------------------------------------");
 
         }
